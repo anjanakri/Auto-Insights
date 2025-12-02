@@ -93,7 +93,7 @@ graph LR
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Auto-Insights.git
+git clone https://github.com/anjanakri/Auto-Insights.git
 cd Auto-Insights
 ```
 
